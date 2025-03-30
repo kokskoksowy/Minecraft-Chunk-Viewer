@@ -1,7 +1,5 @@
-from colorsys import yiq_to_rgb
 
 import anvil
-import os
 
 def print_chunk_info(region_file_path):
     """
